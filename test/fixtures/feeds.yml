@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  host: 
+  name: MyString
+  mid: 
+
+two:
+  host: 
+  name: MyString
+  mid: 
